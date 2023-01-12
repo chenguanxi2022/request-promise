@@ -1,6 +1,6 @@
 {
-  "name": "request-promise",
-  "version": "0.1.0",
+  "name": "wx-request-promise",
+  "version": "0.1.1",
   "description": "wx.request promise化处理",
   "main": "index.js",
   "scripts": {
